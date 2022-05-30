@@ -2,9 +2,9 @@
 
 const int buttonPin[] = {1, 2, 3};   //array that holds the pin number connected to each button
 const int ledPin[] = {13, 12, 11};     //array that holds the pin number connected to each LED
-int buttonAmount = 2;             //variable that holds the total number of buttons
-int buttonState[] = {0, 0};       //array that holds the button statuses
-bool done[] = {false, false};     //array that holds info about if an action has been performed
+int buttonAmount = 3;             //variable that holds the total number of buttons
+int buttonState[] = {0, 0, 0};       //array that holds the button statuses
+bool done[] = {false, false, false};     //array that holds info about if an action has been performed
 /* the purpose of the done variables is to prevent actions from being performed multiple times
  if the button is having a long push down*/
 
