@@ -3,7 +3,7 @@ Inspired by jakecreatesstuff on tiktok, this was a little project for working wi
 Then using what I learned I added 2 more buttons. One to open new tabs (ctrl + t) and one to type out "slay" in fields that can accept text.
 
 There are two versions for the codes of these buttons. ButtonVer1 uses the template provided by Jake and the Arduino library.
-Once I got the first version working I decided to improve it by using a different approach to make the code look cleaner, which is in ButtonVer2.
+Once I got the first version working I decided to improve it by using a different approach to make the code shorter and look cleaner, which is in ButtonVer2.
 Both versions provide the same outputs, just with different approaches.
 
 The setup of my buttons:
